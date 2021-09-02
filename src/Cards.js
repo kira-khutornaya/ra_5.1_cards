@@ -5,7 +5,7 @@ import Title from './Title';
 function Cards() {
   return (
     <div className="App">
-      <Card image="http://placehold.it/940x670/">
+      <Card image="https://forloveyou.ru/wp-content/uploads/2021/04/react-1536x864.png">
         <Title link="#0">Card title</Title>
 
         <p className="Card__text">Some quick example text to build on the card title and make up the bulk of the content.</p>
